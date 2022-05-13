@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bjohnson66
-- 👀 I’m a computer science and engineering major at the University of Iowa. I have experience with Python, C++, and the Processing Javascript Library
+- 👀 I’m a computer science and engineering major at the University of Iowa. I have experience with Python, C++, ROS, and the Processing Javascript Library
 - 📫 How to reach me ... bjohnson66@uiowa.edu
 
 
