@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @bjohnson66
-- 👀 I’m a computer science and engineering major at the University of Iowa. I have experience with Python, C++, ROS, and the Processing Javascript Library
-- 📫 How to reach me ... bjohnson66@uiowa.edu
-
-
-<!---
-bjohnson66/bjohnson66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there! I'm Bradley Johnson, a Computer Science and Engineering student from the University of Iowa. 
+Software Enigneering Intern since June 2022.
+I have extensive experience in C, C++,, Java, C#, and Unity with additional experience in python, MatLab, JavaScript, CSS, and HTML.
+I am passionate about embedded systems, GUIs, and game development. 
